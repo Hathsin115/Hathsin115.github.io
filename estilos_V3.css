@@ -1,0 +1,149 @@
+body {
+	background: #131313;
+	color: black;
+
+}
+
+.titulo_fondo_y_posición {
+	
+	font-family: 'Grenze Gotisch', cursive;
+	background: #070707;
+	text-align: right;
+	color: white;
+	width: 100%;
+	height: 70px;
+	position: absolute;
+	top: 0px;
+}
+.titulo_de_pag{
+	font-size: 50px;
+	position: absolute;
+	height:0px;
+	top: 0px;
+	left: -1500px;
+}
+
+h2{
+	font-family: 'Epilogue', sans-serif;
+	font-size: 35px;
+	color: white;
+	align-items: right;
+	width: 90%;
+	height: 75px;
+	position: absolute;
+	top:1015px;
+	left:120px;
+}
+
+.musica{
+	font-family: 'Blinker', sans-serif;
+	background: #C62632;
+	text-align: center;
+	font-size: 12px;
+	color: white;
+	width: 0%;
+	height: 50px;
+	position: absolute;
+	top: 2px;
+	left: 1300px;
+}
+
+.peliculas{
+	font-family: 'Blinker', sans-serif;
+	background: #C62632;
+	text-align: center;
+	font-size: 12px;
+	color: white;
+	width: 0%;
+	height: 50px;
+	position: absolute;
+	top: 2px;
+	left: 1484px;	
+}
+
+.libros{
+	font-family: 'Blinker', sans-serif;
+	background: #C62632;
+	text-align: center;
+	font-size: 12px;
+	color: white;
+	width: 0%;
+	height: 50px;
+	position: absolute;
+	top: 2px;
+	left: 1700px;
+}
+
+.cuadrado_padre{
+	width: 100%;
+	height: 350px;
+	abackground: grey;
+	font-family: 'Didact Gothic', sans-serif;
+	position: absolute;
+	top:1200px;
+	bottom:0px;
+	left: 00px;
+	right: 00px;
+}
+
+.img_album{
+	width: 275px;
+	height: 275px;
+	transition: all .9s ease;
+	position: relative;
+	bottom: 75px;
+}
+.img_album:hover{
+	width: 320px;
+	height: 320px;
+}
+
+.color_crema{
+	position: absolute;
+	width: 1895px;
+	height:950px;
+}
+
+.albums{
+	position: absolute;
+	top: 15px;
+	left: 75px;
+	width: 1689px;
+	height: 900px;
+	background: #D9C7B9;
+}
+
+
+
+div{
+	position: relative;
+	width: 100%;
+	height:100px;
+	top: 50px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+footer{
+	background: #070707;
+	color: #A7A6A6;
+	position: relative;
+	font-size: 20px;
+	height: 150px;
+	top: 100px;
+	bottom: 00px;
+	left: 00px;
+	right: 00px;
+}
+
+h4{
+	font-family: 'Jura', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+a:visited{
+	color:white;
+}

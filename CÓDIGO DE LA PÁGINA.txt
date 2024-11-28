@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<html>
+	<head>
+			<title> TÍUTLO DE LA PAG WEB </title>
+	</head>
+
+	<body>
+
+		<p>
+			
+		<H1> <P ALIGN=center>	<b>	Weird and Classic </b> </H1>
+
+			<blockquote>
+
+				<H2> <P ALIGN=center>
+				La música sinónimo de libertad, de tocar lo que quieras y como quieras, siempre que sea bueno y tenga pasión.
+				</H2>
+	
+		</p>
+
+				<a href="mailto:marcelo27001.mr@gmail.com" title="send request"> Send Request </a>
+
+			</blockquote>	
+
+			
+				<hr> </hr>
+
+			<blockquote>
+
+			<img src="imagenes/ALBUM 1 AWAKEN, MY LOVE.jpg" title="ALBUM 1 AWAKEN, MY LOVE! - Childish Gambino" alt="ALBUM 1 AWAKEN, MY LOVE" width="275" heigth="275"/>
+
+			<p>
+				"Awaken, My Love!" es el tercer álbum de estudio del rapero estadounidense Donald Glover , bajo su nombre artístico Childish Gambino. Fue lanzado por Glassnote Records el 2 de diciembre de 2016. Consiste en canciones que se cantan en lugar de rapear, su fusión de soul psicodélico , funk yinfluencias de R&B se consideró una desviación audaz delestilopredominantemente hip hop de su trabajo anterior. El álbum fue producido por Glover y su colaborador de toda la vida, Ludwig Göransson .
+			</p>
+
+			</blockquote>
+
+			<blockquote>
+
+			<img src="imagenes/ALBUM 2 DEATH OF THE BACHELOR.jpg" title="ALBUM 1 AWAKEN, MY LOVE! - Childish Gambino" alt="ALBUM 1 AWAKEN, MY LOVE" width="275" heigth="275"/>
+
+			<p>
+			Death of a Bachelor es el quinto álbum de estudio de la banda estadounidense de pop rock Panic! at the Disco, lanzado 15 de enero de 2016 mediante DCD2 y Fueled by Ramen. Es el sucesor del cuarto álbum de estudio de la banda, Too Weird to Live, Too Rare to Die! (2013), siendo todo el álbum compuesto, escrito y grabado por el vocalista y multiinstrumentista Brendon Urie.
+			</p>
+			
+			</blockquote>
+
+			<blockquote>
+
+			<img src="imagenes/ALBUM 3 PURE HEROINE.jpg" title="ALBUM 1 AWAKEN, MY LOVE! - Childish Gambino" alt="ALBUM 1 AWAKEN, MY LOVE" width="275" heigth="275"/>
+
+			<p>
+			PURE HEROINE es el primer álbum de estudio de la cantante y compositora neozelandesa Lorde, publicado el 27 de septiembre de 2013 por Universal Music Group, con una versión extendida del álbum lanzada el 13 de diciembre de 2013.
+			</p>
+			
+			</blockquote>
+
+				<hr> </hr>
+
+			<table>
+				<tr>
+					<td><img src="imagenes/ALBUM 1 AWAKEN, MY LOVE.jpg" title="ALBUM 1 AWAKEN, MY LOVE! - Childish Gambino" alt="ALBUM 1 AWAKEN, MY LOVE" width="275" heigth="275"/>
+					</td>
+
+					<td><img src="imagenes/ALBUM 2 DEATH OF THE BACHELOR.jpg" title="ALBUM 1 AWAKEN, MY LOVE! - Childish Gambino" alt="ALBUM 1 AWAKEN, MY LOVE" width="275" heigth="275"/>
+					</td>
+
+					<td><img src="imagenes/ALBUM 3 PURE HEROINE.jpg" title="ALBUM 1 AWAKEN, MY LOVE! - Childish Gambino" alt="ALBUM 1 AWAKEN, MY LOVE" width="275" heigth="275"/>
+					</td>
+
+				</tr>
+
+
+
+				<tr>
+					<td>ALBUM 1 AWAKEN, MY LOVE! - CHILDISH GAMBINO</td>
+					<td>ALBUM 2 DEATH OF THE BACHELOR - PANIC! AT THE DISCO</td>
+					<td>ALBUM 3 PURE HEROINE - LORDE</td>
+				</tr>
+
+			</table>
+
+
+
+
+
+	</body>
